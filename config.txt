@@ -1,4 +1,4 @@
-token=NTEyNjE0MjgyMzI0ODY5MTQx.Ds8A7Q.fYdMXP7-qiUZMKVPb9ArC7_GKy 
+token=NTI4MjQ4NTcxMzIyMTcxMzky.Dwfj6Q.qX3XwApL3BZUyQVrHnYkWOU4pTY 
 owner=435476222407999488
 prefix= k.
 game= k.help|k.play
